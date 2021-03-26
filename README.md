@@ -7,10 +7,6 @@
 [E-Commerce Back End](https://github.com/charvey0/E-Commerce-Back-End)
 
 
-## Image of terminal:
-[<img src="ecommercebackend.png" width="500"/>](ecommercebackend.png)
-
-
 ## Walkthrough video of live deployment:
 [![README-ecommercebackend-video](https://img.youtube.com/vi/zyZrRwq7f9I/0.jpg)](https://www.youtube.com/watch?v=zyZrRwq7f9I)
 
